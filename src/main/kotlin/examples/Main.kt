@@ -20,7 +20,7 @@ fun main() {
     runProg("Ninety-nine Bottles", ninetyninebottles)
 }
 
-val primInt = "1"
+val primInt = "12"
 
 val primBool = "true"
 
